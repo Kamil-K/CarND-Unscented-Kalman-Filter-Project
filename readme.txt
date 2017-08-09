@@ -25,6 +25,10 @@ PROJECT GRADING
 - I recommend a hall of fame for the lowest overall RMSE using laser AND radar.
 - I recommend to ask students to improve the initialization procedure and evaluate the RMSE during the first 20 steps.
 
+---
+
+cd /mnt/d/Studies-MOOCs/2017-02_Self-Driving-Car_NanoDegree_Udacity/Self_Driving_Car_Projects/2_Unscented_Kalman_Filter/Project_Repo
+
 
 
 
